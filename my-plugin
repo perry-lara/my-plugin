@@ -14,3 +14,4 @@ Domain Path:
 function my_custom_action ( ) {
   do_action ('my_custom_action', 1);
 }
+?>
